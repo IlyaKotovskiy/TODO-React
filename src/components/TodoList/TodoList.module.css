@@ -1,0 +1,12 @@
+.noTasks {
+    text-align: center;
+    margin: 16px 0;
+    font-size: 18px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    width: 100%;
+}
